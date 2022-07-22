@@ -1,5 +1,8 @@
-letters = [54, 12, 3432, 21.1, 23]
+dict = {"яблоко": "красное", "банан": "желтый", "лимон": "желтый"}
+for k in dict.values():
+    print(k)
 
-letters. sort()
-print(letters)
+for n in dict.keys():
+    print(n)
+
 
