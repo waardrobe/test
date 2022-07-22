@@ -1,6 +1,5 @@
-names = ["jad", "asodj", "asdjkasd"]
+letters = [54, 12, 3432, 21.1, 23]
 
-n = names. index("jad")
-print(n)
+letters. sort()
+print(letters)
 
-print(len(names))
